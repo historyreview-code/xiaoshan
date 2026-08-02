@@ -8,9 +8,10 @@ VOLUMES = [
     ("卷一", "质子之妻", "崤山_长篇_卷一.md", "volume1.html"),
     ("卷二", "流亡之君", "崤山_长篇_卷二.md", "volume2.html"),
     ("卷三", "裂痕", "崤山_长篇_卷三.md", "volume3.html"),
+    ("卷四", "崤山", "崤山_长篇_卷四.md", "volume4.html"),
 ]
-NEXT = {"volume1.html": "volume2.html", "volume2.html": "volume3.html"}
-PREV = {"volume2.html": "volume1.html", "volume3.html": "volume2.html"}
+NEXT = {"volume1.html": "volume2.html", "volume2.html": "volume3.html", "volume3.html": "volume4.html"}
+PREV = {"volume2.html": "volume1.html", "volume3.html": "volume2.html", "volume4.html": "volume3.html"}
 
 
 def esc(s):
