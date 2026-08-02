@@ -1,17 +1,17 @@
-# 崤山 · 秦晋之役
+# 崤山（短篇）
 
-历史小说。以文赢、秦穆公、孟明视、先轸为线索，重述前628—前627年秦袭郑、殽之战的前因后果，以及此后"三年拜君赐"、封殽尸、霸西戎、秦晋决裂的余波。
-
-据《左传》（僖公三十、三十二、三十三年，文公二、三、六、七年）与《史记·秦本纪》创作。
+历史小说。重述前628—前627年秦袭郑、殽之战的前因后果，以及"三年拜君赐"、封殽尸、霸西戎的余波。据《左传》《史记》创作。
 
 ## 阅读
 
-- 在线版：[GitHub Pages](https://historyreview-code.github.io/xiaoshan/)（短篇+长篇卷目）
-- Railway 镜像站：[xiaoshan-production.up.railway.app](https://xiaoshan-production.up.railway.app/)
-- 长篇卷目：卷一·质子之妻、卷二·流亡之君、卷三·裂痕（章节体 HTML）
-- 章节体 HTML：`index.html`（含目录导航、上下章链接、移动端适配）
-- 文本稿：`崤山_v1.md`（初稿）、`崤山_v2.md`（史实修订版）、`崤山_v3.md`（结构调整版）
-- 长篇稿：`崤山_长篇_卷一/二/三.md`（连载中）、`崤山_长篇大纲.md`
+- 在线版：[GitHub Pages](https://historyreview-code.github.io/xiaoshan/)
+- Railway 镜像：[xiaoshan-production.up.railway.app](https://xiaoshan-production.up.railway.app/)
+- 章节体 HTML：`index.html`
+- 文本稿：`崤山_v1.md`（初稿）、`崤山_v2.md`（史实修订版）、`崤山_v3.md`（结构调整终稿）
+
+## 长篇
+
+同一题材的长篇连载《玦 · 秦晋之好》见另一仓库 [wenyin](https://github.com/historyreview-code/wenyin)（长篇独立成站）。
 
 ## 结构
 
