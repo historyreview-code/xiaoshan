@@ -6,9 +6,12 @@
 
 ## 阅读
 
-- 在线版：[GitHub Pages](https://historyreview-code.github.io/xiaoshan/)（如已启用）
+- 在线版：[GitHub Pages](https://historyreview-code.github.io/xiaoshan/)（短篇+长篇卷目）
+- Railway 镜像站：[xiaoshan-production.up.railway.app](https://xiaoshan-production.up.railway.app/)
+- 长篇卷目：卷一·质子之妻、卷二·流亡之君、卷三·裂痕（章节体 HTML）
 - 章节体 HTML：`index.html`（含目录导航、上下章链接、移动端适配）
 - 文本稿：`崤山_v1.md`（初稿）、`崤山_v2.md`（史实修订版）、`崤山_v3.md`（结构调整版）
+- 长篇稿：`崤山_长篇_卷一/二/三.md`（连载中）、`崤山_长篇大纲.md`
 
 ## 结构
 
