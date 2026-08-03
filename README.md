@@ -11,7 +11,7 @@
 
 ## 长篇
 
-同一题材的长篇连载《玦 · 秦晋之好》见另一仓库 [wenyin](https://github.com/historyreview-code/wenyin)（长篇独立成站）。
+同一题材的长篇《玦 · 秦晋之好》（五卷全书完）见另一仓库 [wenyin](https://github.com/historyreview-code/wenyin)，在线阅读 [GitHub Pages](https://historyreview-code.github.io/wenyin/)（长篇独立成站）。
 
 ## 结构
 
