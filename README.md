@@ -7,7 +7,8 @@
 - 在线版：[GitHub Pages](https://historyreview-code.github.io/xiaoshan/)
 - Railway 镜像：[xiaoshan-production.up.railway.app](https://xiaoshan-production.up.railway.app/)
 - 章节体 HTML：`index.html`
-- 文本稿：`崤山_v1.md`（初稿）、`崤山_v2.md`（史实修订版）、`崤山_v3.md`（结构调整终稿）
+- 文本稿：`崤山_v1.md`（初稿）、`崤山_v2.md`（史实修订版）、`崤山_v3.md`（结构调整终稿）、`崤山_v4.md`（中篇定稿，v1–v3 与长篇的重组修订版）
+- 阅读版 HTML：`崤山_v4.html`（v4 中篇全文单文件，内置目录与生僻字注音）
 
 ## 长篇
 
